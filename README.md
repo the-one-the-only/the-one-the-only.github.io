@@ -1,21 +1,10 @@
 # the-one-the-only.github.io
-## the-one-the-only.github.io
-### the-one-the-only.github.io
 Rouie Gomez
 
-**wallace wells my beloved**
+# The Life Series
 
-ateneo:
+### What is it? 
+The Life Series is a "hardcore with a twist" survival multiplayer series created by popular Minecraft YouTuber Grian. Throughout each of the five seasons, there have been different sets of rules each season, but the main rules were generally similar: each player has a set number of lives, and after they lose all of them, they're out. Players are also limited to a small area to keep players in close proximity. These rules are generally the same, although there have been some changes; for example, in Season 4, lives were replaced by time, and when players ran out of time, they were out of the series. Players can also team up to create a complex web of teams and alliances that last until the final moments.
 
-![ateneo](https://jhs.adnu.edu.ph/pluginfile.php/1/theme_remui/section_html/942325426/welcomebg.png)
+### Who are its members?
 
-[ateneo](https://beta.character.ai/)
-
-| wow | okay |
-| ----------- | ----------- |
-| yippee! | cool |
-| girl..... | lmao |
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8QHCmOGCbPw?si=7eKi_oON9Uvbg73U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/266Vb7ItE3o1q8HdJ9QOvn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
